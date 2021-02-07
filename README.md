@@ -10,16 +10,10 @@ Teste para a vaga de Desenvolvedor Front-End
 
 <hr>
 
-<p align="center">
-  <img alt="Layout desenvolvido" width="100%" src="layout.png" />
-<p>
-<p align="center">
-  <a href="https://phschaves.github.io/" target="blank">Link para visualização</a>
-<p>
-
 ## Tecnologias Utilizadas
 
 - [X] React.Js
+- [X] Css
 
 
 Para execução desse projeto de maneira simples, basta abrir o projeto com o Visual Studio Code executar o terminal (Ctrl + J) dentro do terminal basta executar o 'npm start' para conseguir visualizar o projeto.

@@ -19,8 +19,8 @@ Teste para a vaga de Desenvolvedor Front-End
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com).
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:<br>
+[Git](https://git-scm.com).<br>
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Executando o projeto

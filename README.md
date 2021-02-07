@@ -12,8 +12,34 @@ Teste para a vaga de Desenvolvedor Front-End
 
 ## Tecnologias Utilizadas
 
-- [X] React.Js
-- [X] Css
+- [X] [React.Js](https://pt-br.reactjs.org/)
+- [X] [React-Slick](https://react-slick.neostack.com/) 
+- [X] [Yup Validação](https://www.npmjs.com/package/yup)
+- [X] [Axios](https://github.com/axios/axios)
 
+### Pré-requisitos
 
-Para execução desse projeto de maneira simples, basta abrir o projeto com o Visual Studio Code executar o terminal (Ctrl + J) dentro do terminal basta executar o 'npm start' para conseguir visualizar o projeto.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Executando o projeto
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/PHSChaves/Teste-Corebiz-React.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Teste-Corebiz-React
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```

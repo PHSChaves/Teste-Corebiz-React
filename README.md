@@ -19,7 +19,7 @@ Teste para a vaga de Desenvolvedor Front-End
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:<br>
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Git](https://git-scm.com).<br>
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
@@ -32,14 +32,11 @@ $ git clone <https://github.com/PHSChaves/Teste-Corebiz-React.git>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Teste-Corebiz-React
 
-# Vá para a pasta server
-$ cd server
-
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Inicie a aplicação
+$ npm start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
